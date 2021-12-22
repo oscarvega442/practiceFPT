@@ -1,0 +1,6 @@
+C:\Users\oscar\Desktop\PracticeFPT\dbFPT\dbFPT\bin\Debug\dbFPT.dacpac
+C:\Users\oscar\Desktop\PracticeFPT\dbFPT\dbFPT\bin\Debug\dbFPT.dll
+C:\Users\oscar\Desktop\PracticeFPT\dbFPT\dbFPT\bin\Debug\dbFPT.pdb
+C:\Users\oscar\Desktop\PracticeFPT\dbFPT\dbFPT\obj\Debug\dbFPT.sqlprojAssemblyReference.cache
+C:\Users\oscar\Desktop\PracticeFPT\dbFPT\dbFPT\obj\Debug\dbFPT.dll
+C:\Users\oscar\Desktop\PracticeFPT\dbFPT\dbFPT\obj\Debug\dbFPT.pdb
